@@ -1,0 +1,10 @@
+﻿,id,name,email,phone,skills,missing_skills,score,submission_date,job_role,data_engineer_score,software_developer_score,data_scientist_score,best_role,machine_engineer_score
+0,12,Priya Nair,priya.nair@example.com,+919812345678,"java, python, javascript, sql, git, html, css",,,,,28.57,85.71,14.29,Software Developer,20
+1,13,Karan Mehta,karan.mehta@example.com,+919876512340,"arduino, robotics, python",,,,,14.29,14.29,14.29,Machine Engineer,60
+2,17,Aarav Sharma,aarav.sharma@example.com,+919876543210,"javascript, html, css",,,,,0,42.86,0,Software Developer,0
+3,18,Sneha Joshi,sneha.joshi@example.com,+919890123456,"python, sql",,,,,28.57,14.29,14.29,Data Engineer,20
+4,19,Meera Patel,meera.patel@example.com,+919854673210,python,,,,,14.29,14.29,14.29,Machine Engineer,20
+5,20,Vikram Desai,vikram.desai@example.com,+919830123456,"java, python, html, css, git, javascript",,,,,14.29,85.71,14.29,Software Developer,20
+6,22,Arjun Rao,arjun.rao@example.com,+919876543233,"python, sql, robotics",,,,,28.57,14.29,14.29,Machine Engineer,40
+7,23,Rohan Gupta,rohan.gupta@example.com,+91-9876543210,"python, java, sql, git, javascript",,,,,28.57,57.14,14.29,Software Developer,20
+8,29,Shruti Shinde,shruti.shinde@example.com,+91 9321620865,"python, sql, aws",,,,,42.86,14.29,14.29,Data Engineer,20
